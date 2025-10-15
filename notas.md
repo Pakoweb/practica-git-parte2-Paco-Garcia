@@ -1,4 +1,4 @@
-Mis notasn- Desarrollo Web Entorno Cliente-n Desarrollo Web Entorno Servidor
+Texto 2 prueba conflicto
 Programacion
 Base de Datos
 Desarrollo de interfaces
