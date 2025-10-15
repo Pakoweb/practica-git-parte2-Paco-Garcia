@@ -1,4 +1,6 @@
-Texto 2 prueba conflicto
+
+Texto 2 prueba conflicto y 
+Texto de prueba 1 para conflicto
 Programacion
 Base de Datos
 Desarrollo de interfaces
